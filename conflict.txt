@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict Test in main
+=======
+Conflict Test in main
+>>>>>>> conflict-branch
